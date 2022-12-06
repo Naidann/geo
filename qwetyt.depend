@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669174629 source:c:\temp\code blocks projects\qwetyt\main.c
+	<stdio.h>
+	<stdlib.h>
+
